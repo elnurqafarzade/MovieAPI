@@ -1,0 +1,729 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|solutionrelative:src\\pb201movieapp.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|solutionrelative:src\\pb201movieapp.api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\pb201movieapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\pb201movieapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\configurations\\movieimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\configurations\\movieimageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\configurations\\movieconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\configurations\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\migrations\\genretableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\migrations\\genretableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\pb201movieapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\pb201movieapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\migrations\\imagetablescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\migrations\\imagetablescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\migrations\\initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\migrations\\initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\services\\implementations\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|solutionrelative:src\\pb201movieapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\entities\\movieimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\entities\\movieimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\entities\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\services\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\services\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\dtos\\moviedtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\dtos\\moviedtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\utilities\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\utilities\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\exceptions\\invalididexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\exceptions\\invalididexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\exceptions\\entitynotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\exceptions\\entitynotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\dtos\\genredtos\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\dtos\\genredtos\\genreupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|solutionrelative:src\\pb201movieapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\dtos\\moviedtos\\moviegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\dtos\\moviedtos\\moviegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\dtos\\moviedtos\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\dtos\\moviedtos\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\dtos\\genredtos\\genregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\dtos\\genredtos\\genregetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\dtos\\genredtos\\genrecreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\dtos\\genredtos\\genrecreatedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|solutionrelative:src\\pb201movieapp.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.api\\pb201movieapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{091E13FE-9B30-40A0-81D9-1CD6DE55CFC7}|src\\PB201MovieApp.API\\PB201MovieApp.API.csproj|solutionrelative:src\\pb201movieapp.api\\pb201movieapp.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\services\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\services\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.business\\mappingprofiles\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AFC6DA-0CA4-4DEE-B142-E1732B39CC2F}|src\\PB201MovieApp.Business\\PB201MovieApp.Business.csproj|solutionrelative:src\\pb201movieapp.business\\mappingprofiles\\mapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\repositories\\movieimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\repositories\\movieimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\repositories\\imovieimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\repositories\\imovieimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.dal\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F15EEE3-A543-4F6E-BC4E-C6B91284972E}|src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj|solutionrelative:src\\pb201movieapp.dal\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|c:\\users\\fa507xv\\source\\repos\\pb201movieapp\\src\\pb201movieapp.core\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD58B7-E60B-4C54-ADB2-91FD9264DF3B}|src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj|solutionrelative:src\\pb201movieapp.core\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\Program.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:52:44.528Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Configurations\\GenreConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Configurations\\GenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Configurations\\GenreConfiguration.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Configurations\\GenreConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:55:30.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Configurations\\MovieConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Configurations\\MovieConfiguration.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Configurations\\MovieConfiguration.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Configurations\\MovieConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:31:59.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieImageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Configurations\\MovieImageConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Configurations\\MovieImageConfiguration.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Configurations\\MovieImageConfiguration.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Configurations\\MovieImageConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:58:20.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PB201MovieApp.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\PB201MovieApp.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-15T07:59:27.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Repositories\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\Repositories\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Repositories\\IGenreRepository.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\Repositories\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:04:13.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.API\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.API\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:28:20.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.API\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.API\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:29:49.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Contexts\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Contexts\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Contexts\\AppDBContext.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Contexts\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:07:08.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenreTableAdded.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Migrations\\GenreTableAdded.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Migrations\\GenreTableAdded.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Migrations\\GenreTableAdded.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Migrations\\GenreTableAdded.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:03:38.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:01:34.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\ServiceRegistration.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:36:10.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PB201MovieApp.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\PB201MovieApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T03:48:41.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\Entities\\Genre.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Entities\\Genre.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:56:37.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Services\\Implementations\\GenreService.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\Services\\Implementations\\GenreService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Services\\Implementations\\GenreService.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\Services\\Implementations\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:58:39.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Entities\\Movie.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\Entities\\Movie.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Entities\\Movie.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\Entities\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:16:28.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieImage.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Entities\\MovieImage.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\Entities\\MovieImage.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Entities\\MovieImage.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\Entities\\MovieImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:57:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Services\\Implementations\\MovieService.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\Services\\Implementations\\MovieService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Services\\Implementations\\MovieService.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\Services\\Implementations\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:00:13.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImageTablesCreated.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Migrations\\ImageTablesCreated.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Migrations\\ImageTablesCreated.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Migrations\\ImageTablesCreated.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Migrations\\ImageTablesCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:06:02.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Migrations\\InitialMigration.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Migrations\\InitialMigration.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Migrations\\InitialMigration.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Migrations\\InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T07:05:11.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:59:39.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:10:52.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MovieCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:55:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Utilities\\FileManager.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\Utilities\\FileManager.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Utilities\\FileManager.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\Utilities\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:57:09.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InvalidIdException.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Exceptions\\InvalidIdException.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\Exceptions\\InvalidIdException.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Exceptions\\InvalidIdException.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\Exceptions\\InvalidIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:07:10.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EntityNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Exceptions\\EntityNotFound.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\Exceptions\\EntityNotFound.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Exceptions\\EntityNotFound.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\Exceptions\\EntityNotFound.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T05:05:37.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\appsettings.json",
+              "RelativeToolTip": "src\\PB201MovieApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T04:24:46.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MovieGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieGetDTO.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieGetDTO.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieGetDTO.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:56:27.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MovieUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieUpdateDTO.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieUpdateDTO.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\DTOs\\MovieDTOs\\MovieUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T04:57:15.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenreUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:14:40.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GenreGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:14:15.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\PB201MovieApp.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T04:27:20.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PB201MovieApp.API",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\PB201MovieApp.API.csproj",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.API\\PB201MovieApp.API.csproj",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.API\\PB201MovieApp.API.csproj",
+              "RelativeToolTip": "src\\PB201MovieApp.API\\PB201MovieApp.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T04:27:19.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenreCreateDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreCreateDTOs.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreCreateDTOs.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreCreateDTOs.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\DTOs\\GenreDTOs\\GenreCreateDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:06:16.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Services\\Interfaces\\IGenreService.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\Services\\Interfaces\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\Services\\Interfaces\\IGenreService.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\Services\\Interfaces\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:01:48.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\MappingProfiles\\MapProfile.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Business\\MappingProfiles\\MapProfile.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Business\\MappingProfiles\\MapProfile.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Business\\MappingProfiles\\MapProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T06:03:29.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Repositories\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Repositories\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:03:12.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IMovieImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Repositories\\IMovieImageRepository.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\Repositories\\IMovieImageRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Repositories\\IMovieImageRepository.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\Repositories\\IMovieImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:01:45.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MovieImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Repositories\\MovieImageRepository.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Repositories\\MovieImageRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Repositories\\MovieImageRepository.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Repositories\\MovieImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:59:50.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:38:48.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:05:55.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "src\\PB201MovieApp.DAL\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\FA507XV\\source\\repos\\PB201MovieApp\\src\\PB201MovieApp.DAL\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "src\\PB201MovieApp.DAL\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T08:39:59.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\bin\Debug\net8.0\PB201MovieApp.Business.deps.json
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\bin\Debug\net8.0\PB201MovieApp.Business.dll
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\bin\Debug\net8.0\PB201MovieApp.Business.pdb
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\PB201MovieApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\PB201MovieApp.Business.AssemblyInfoInputs.cache
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\PB201MovieApp.Business.AssemblyInfo.cs
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\PB201MovieApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\PB201MovieApp.Business.dll
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\refint\PB201MovieApp.Business.dll
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\PB201MovieApp.Business.pdb
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\ref\PB201MovieApp.Business.dll
+C:\Users\FA507XV\source\repos\PB201MovieApp\src\PB201MovieApp.Business\obj\Debug\net8.0\PB201MovieApp.Business.csproj.AssemblyReference.cache
